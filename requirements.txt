@@ -1,0 +1,6 @@
+matplotlib
+os
+numpy
+tqdm
+tensorflow
+pickle
