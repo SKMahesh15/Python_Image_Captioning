@@ -36,7 +36,7 @@ This project is an **Image Caption Generator** that combines the power of convol
    **"sos surfboarder is doing a surfboard on a white surfboard eos"**  
 
    Real Caption:
-   **kid doing a trick on a skateboard**
+   **male surfer is on his stomach and riding a wave **
 
 ## Setup 🖥️  
 
