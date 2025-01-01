@@ -33,7 +33,7 @@ This project is an **Image Caption Generator** that combines the power of convol
    ![Sample Image](output_caption_image_3.png)  
 
 2. Generated Caption:  
-   **"sos guy does a skateboard trick a skateboard on a skateboard eos"**  
+   **"sos surfboarder is doing a surfboard on a white surfboard eos"**  
 
    Real Caption:
    **kid doing a trick on a skateboard**
